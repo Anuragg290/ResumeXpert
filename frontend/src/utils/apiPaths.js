@@ -1,5 +1,5 @@
-// export const BASE_URL = "https://resumexpert-backend.onrender.com";
-export const BASE_URL = "http://localhost:4000";
+// export const BASE_URL = "https://resumexpert-backend-b41y.onrender.com";
+// export const BASE_URL = "http://localhost:4000";
 
 
 //utils/apiPath.js
